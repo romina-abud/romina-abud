@@ -1,5 +1,5 @@
 # Hola 👋, soy Romina  
-Analista de Datos, enfocada en transformar datos en información útil para la toma de decisiones.
+Ing. Química y Analista de Datos, enfocada en transformar datos en información útil para la toma de decisiones.
 
 • 📊 Actualmente profundizo mis conocimientos en Excel avanzado, Power Query y Power BI  
 • 🧠 Estoy aprendiendo SQL: SELECT, JOIN, WHERE, GROUP BY, ORDER BY y funciones agregadas  
