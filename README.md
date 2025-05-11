@@ -5,7 +5,8 @@ Analista de Datos en formación, enfocada en transformar datos en información �
 • 🧠 Estoy aprendiendo SQL: SELECT, JOIN, WHERE, GROUP BY, ORDER BY y funciones agregadas  
 • 🗂️ Tengo experiencia planificando, organizando y ejecutando proyectos de análisis de datos  
 • 🎓 Formación autodidacta con base en lógica de negocio, procesos, documentación en Notion y dinámicas similares
-• 📫 Conectemos en LinkedIn: [romina-abud](https://www.linkedin.com/in/romina-abud)
+
+📫 Conectemos en LinkedIn: [romina-abud](https://www.linkedin.com/in/romina-abud)
 
 ---
 
